@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/jamerson/Downloads/Crea-MA-master/app/build/intermediates/res/merged/debug/menu/menu_formulario_proprietario.xml",
+        "source": "/home/jamerson/Downloads/Crea-MA-master/app/src/main/res/menu/menu_formulario_proprietario.xml"
+    },
+    {
+        "merged": "/home/jamerson/Documentos/Crea-MA-final/app/build/intermediates/res/merged/debug/menu/menu_formulario_proprietario.xml",
+        "source": "/home/jamerson/Documentos/Crea-MA-final/app/src/main/res/menu/menu_formulario_proprietario.xml"
+    },
+    {
+        "merged": "/home/jamerson/Downloads/Crea-MA-master/app/build/intermediates/res/merged/debug/menu/menu_lista_proprietario.xml",
+        "source": "/home/jamerson/Downloads/Crea-MA-master/app/src/main/res/menu/menu_lista_proprietario.xml"
+    },
+    {
+        "merged": "/home/jamerson/Downloads/Crea-MA-master/app/build/intermediates/res/merged/debug/menu/menu_lista_notificacao.xml",
+        "source": "/home/jamerson/Downloads/Crea-MA-master/app/src/main/res/menu/menu_lista_notificacao.xml"
+    },
+    {
+        "merged": "/home/samba/AndroidStudioProjects/Crea-MA-final/app/build/intermediates/res/merged/debug/menu/menu_formulario_proprietario.xml",
+        "source": "/home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/res/menu/menu_formulario_proprietario.xml"
+    },
+    {
+        "merged": "/home/samba/AndroidStudioProjects/Crea-MA-final/app/build/intermediates/res/merged/debug/menu/menu_formulario_notificacao.xml",
+        "source": "/home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/res/menu/menu_formulario_notificacao.xml"
+    },
+    {
+        "merged": "/home/samba/AndroidStudioProjects/Crea-MA-final/app/build/intermediates/res/merged/debug/menu/menu_lista_notificacao.xml",
+        "source": "/home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/res/menu/menu_lista_notificacao.xml"
+    },
+    {
+        "merged": "/home/jamerson/Downloads/Crea-MA-master/app/build/intermediates/res/merged/debug/menu/menu_formulario_notificacao.xml",
+        "source": "/home/jamerson/Downloads/Crea-MA-master/app/src/main/res/menu/menu_formulario_notificacao.xml"
+    },
+    {
+        "merged": "/home/jamerson/Documentos/Crea-MA-final/app/build/intermediates/res/merged/debug/menu/menu_formulario_notificacao.xml",
+        "source": "/home/jamerson/Documentos/Crea-MA-final/app/src/main/res/menu/menu_formulario_notificacao.xml"
+    },
+    {
+        "merged": "/home/samba/AndroidStudioProjects/Crea-MA-final/app/build/intermediates/res/merged/debug/menu/menu_lista_proprietario.xml",
+        "source": "/home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/res/menu/menu_lista_proprietario.xml"
+    },
+    {
+        "merged": "/home/jamerson/Documentos/Crea-MA-final/app/build/intermediates/res/merged/debug/menu/menu_lista_notificacao.xml",
+        "source": "/home/jamerson/Documentos/Crea-MA-final/app/src/main/res/menu/menu_lista_notificacao.xml"
+    },
+    {
+        "merged": "/home/jamerson/Documentos/Crea-MA-final/app/build/intermediates/res/merged/debug/menu/menu_lista_proprietario.xml",
+        "source": "/home/jamerson/Documentos/Crea-MA-final/app/src/main/res/menu/menu_lista_proprietario.xml"
+    }
+]

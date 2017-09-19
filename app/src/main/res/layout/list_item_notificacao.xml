@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:layout_marginTop="2dp"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:src="@drawable/person"
+        android:id="@+id/item_foto_list_infracao"/>
+    
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_toRightOf="@+id/item_foto_list_infracao"
+        android:layout_toEndOf="@+id/item_foto_list_infracao"
+        android:layout_alignBottom="@+id/item_foto_list_infracao">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/item_nome_infracao"
+        android:text="Nome"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:paddingLeft="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/item_nome_tipoinfracao"
+        android:text="Tipo de Infração"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:paddingLeft="8dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/item_nome_infracao" />
+
+    </RelativeLayout>
+</RelativeLayout>

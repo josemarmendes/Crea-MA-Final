@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/samba/.android/build-cache/695939cc8ee15bf8cae1387c7d6ebec9f1048b04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/samba/AndroidStudioProjects/Crea-MA-final/app/build/intermediates/pre-dexed/debug/classes_a8a1912753b781f81172fdec5e526b29dbb1ebae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/samba/.android/build-cache/becffbad451990ab2b6b8dec4db2fe943fcbb52a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/samba/AndroidStudioProjects/Crea-MA-final/app/build/intermediates/pre-dexed/debug/classes_ee58158b77d65e6b6f3886b2028eba9920546bc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/samba/.android/build-cache/9968abbba08cc354a91ff168f40bd463f778a637/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/samba/AndroidStudioProjects/Crea-MA-final/app/build/intermediates/pre-dexed/debug/classes_f1eff34d4ee234172fe7fa4ec743308fb821fc0e.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/samba/AndroidStudioProjects/Crea-MA-final/app/build/intermediates/res/merged/debug/raw/msg.wav",
+        "source": "/home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/res/raw/msg.wav"
+    },
+    {
+        "merged": "/home/jamerson/Downloads/Crea-MA-master/app/build/intermediates/res/merged/debug/raw/msg.wav",
+        "source": "/home/jamerson/Downloads/Crea-MA-master/app/src/main/res/raw/msg.wav"
+    },
+    {
+        "merged": "/home/jamerson/Documentos/Crea-MA-final/app/build/intermediates/res/merged/debug/raw/msg.wav",
+        "source": "/home/jamerson/Documentos/Crea-MA-final/app/src/main/res/raw/msg.wav"
+    }
+]

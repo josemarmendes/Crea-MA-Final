@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/jamerson/Downloads/Crea-MA-master/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/home/jamerson/.android/build-cache/fc7b86fcf184d8bbbad1dd0993deae29e0d5ddf2/output/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/jamerson/Documentos/Crea-MA-final/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/home/jamerson/.android/build-cache/99e1b660036d40b8706504fd86ebe1262ba8ff1f/output/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/samba/AndroidStudioProjects/Crea-MA-final/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/home/samba/.android/build-cache/c69a29ab71b74d9cc0bb1b84ffefea9b420c331a/output/res/layout-v16/notification_template_custom_big.xml"
+    }
+]

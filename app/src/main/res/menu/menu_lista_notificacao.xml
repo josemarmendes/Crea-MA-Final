@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menu_lista_proprietarios"
+        android:orderInCategory="30"
+        android:title="Listar proprietários"
+        app:showAsAction="never"/>
+    <item android:id="@+id/menu_cadastro_proprietario"
+        android:orderInCategory="40"
+        app:showAsAction="never"
+        android:title="Cadastrar proprietário"
+        />
+    <item android:id="@+id/menu_site_crea"
+        android:orderInCategory="50"
+        android:title="Site CREA-MA"
+        />
+
+</menu>

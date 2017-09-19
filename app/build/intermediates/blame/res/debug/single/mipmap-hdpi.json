@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/samba/AndroidStudioProjects/Crea-MA-final/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/jamerson/Documentos/Crea-MA-final/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/jamerson/Documentos/Crea-MA-final/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/jamerson/Downloads/Crea-MA-master/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/jamerson/Downloads/Crea-MA-master/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/jamerson/Documentos/Crea-MA-final/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/jamerson/Documentos/Crea-MA-final/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/jamerson/Downloads/Crea-MA-master/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/jamerson/Downloads/Crea-MA-master/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/samba/AndroidStudioProjects/Crea-MA-final/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

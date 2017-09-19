@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <include android:id="@+id/toolbar" layout="@layout/toolbar"/>
+        
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="225dp">
+
+        <ImageView
+            android:id="@+id/formulario_foto_infracao"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/person"
+            android:background="#00A8EC"/>
+        <Button
+            android:id="@+id/formulario_botao_infracao"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:background="@drawable/fundo_camera"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="16dp"/>
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/linearlayout1"
+            android:layout_width="match_parent"
+            android:layout_height="405dp"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:weightSum="1">
+
+        <TextView
+            android:id="@+id/textViewCpf"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Proprietário" />
+
+        <Spinner
+            android:id="@+id/spNomeProprietario"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:id="@+id/textViewTipoObra"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Tipo de Obra" />
+
+        <RadioGroup
+            android:id="@+id/rgTipoObra"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/rbResidencial"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:checked="true"
+                android:text="Residencial"
+                android:textAppearance="?android:attr/textAppearanceMedium"/>
+
+            <RadioButton
+                android:id="@+id/rbComercial"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Comercial"
+                android:textAppearance="?android:attr/textAppearanceMedium"/>
+
+        </RadioGroup>
+
+        <TextView
+            android:id="@+id/textViewEtapasConcluidas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Etapas Concluidas"
+            android:layout_marginTop="12dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                >
+                <RelativeLayout
+                    android:layout_width="194dp"
+                    android:layout_height="64dp">
+                    <CheckBox
+                        android:id="@+id/chkAlvenaria"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"
+                        android:text="Alvenaria" />
+
+                    <CheckBox
+                        android:id="@+id/chkFundacao"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:text="Fundação"
+                        />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <CheckBox
+                        android:id="@+id/chkCobertura"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"
+                        android:text="Cobertura" />
+
+                    <CheckBox
+                        android:id="@+id/chkInstalacoes"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:text="Instalação" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Infração"
+                android:layout_marginTop="12dp"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <Spinner
+                android:id="@+id/spInfracoes"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:entries="@array/infracoes"
+               />
+
+            <TextView
+                android:id="@+id/textViewEnderecoObra"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Endereço da Obra"
+                android:layout_marginTop="12dp"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <EditText
+                android:id="@+id/edtEnderecoObra"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+        <!--<TextView-->
+            <!--android:id="@+id/textViewLocalizacao"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="Localização"-->
+            <!--android:minHeight="20dp"-->
+           <!--/>-->
+            <android.support.v4.widget.Space
+                android:layout_width="20dp"
+                android:layout_height="20dp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

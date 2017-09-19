@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menu_lista_notificacao"
+        android:orderInCategory="30"
+        android:title="Listar notificações"
+        app:showAsAction="never"/>
+    <item android:id="@+id/menu_cadastro_notificacao"
+        android:orderInCategory="40"
+        app:showAsAction="never"
+        android:title="Cadastrar notificação"
+        />
+    <item android:id="@+id/menu_site_crea"
+        android:orderInCategory="50"
+        android:title="Site CREA-MA"
+        />
+
+</menu>

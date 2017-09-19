@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.11" />
+
+        <ImageView
+            android:id="@+id/imageViewLogin"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="60dp"
+            android:layout_weight="0.43"
+            android:src="@drawable/logo_crea" />
+
+        <android.support.v4.widget.Space
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="2dp"/>
+
+        <EditText
+            android:id="@+id/login_usuario"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="Nome"
+            android:ems="10"
+            android:focusable="true"
+            android:textColorHighlight="#ff7eff15"
+            android:textColorHint="#FF092A60"
+            android:layout_marginTop="30dp"
+            android:layout_gravity="center"/>
+
+        <EditText
+            android:id="@+id/login_senha"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="Senha"
+            android:ems="10"
+            android:textColorHighlight="#ff7eff15"
+            android:textColorHint="#FF092A60"
+            android:layout_marginTop="30dp"
+            android:inputType="textPassword"
+            android:layout_gravity="center"/>
+
+        <Button
+            android:id="@+id/login_btnEntrar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="4"
+            android:layout_gravity="center"
+            android:text="Entrar"
+            android:layout_marginTop="37dp"
+            android:background="@drawable/borda_arredondada"
+            android:textColor="#ffffff"/>
+
+    </LinearLayout>
+</ScrollView>

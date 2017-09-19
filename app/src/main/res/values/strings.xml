@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Crea-MA</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string-array name="infracoes">
+        <item>Obra sem Licenciamento</item>
+        <item>Obra em área pública</item>
+        <item>Descordo com o projeto</item>
+        <item>Irregular a legislação</item>
+        <item>Descumprimento de notificação</item>
+        <item>Descumprimento de Interdição</item>
+        <item>Descumprimento de Intimação</item>
+        <item>Outras</item>
+    </string-array>
+</resources>

@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.edu.ifma.crea_ma.FormularioProprietariosActivity">
+
+    <item android:id="@+id/menu_formulario_proprietario_ok"
+        android:title="Ok"
+        android:icon="@drawable/ic_confirmar"
+        app:showAsAction="always"
+        />
+    <!--<item android:id="@+id/menu_lista_notificacao"-->
+        <!--android:orderInCategory="30"-->
+        <!--android:title="Listar notificacao"-->
+        <!--app:showAsAction="never"/>-->
+    <!--<item android:id="@+id/menu_cadastro_notificacao"-->
+        <!--android:orderInCategory="40"-->
+        <!--app:showAsAction="never"-->
+        <!--android:title="Cadastrar Notificação"-->
+        <!--/>-->
+    <!--<item android:id="@+id/menu_site_crea"-->
+        <!--android:orderInCategory="50"-->
+        <!--android:title="Site CREA-MA"-->
+        <!--/>-->
+
+</menu>

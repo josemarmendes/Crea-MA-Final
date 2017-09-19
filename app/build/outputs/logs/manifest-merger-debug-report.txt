@@ -1,0 +1,125 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml
+		INJECTED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml
+		INJECTED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml
+		INJECTED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:5:5-69
+	android:name
+		ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:5:22-66
+application
+ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:7:5-35:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/samba/.android/build-cache/4a618b7e361d93b3e6fde241229fcacf3b165c73/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/samba/.android/build-cache/9968abbba08cc354a91ff168f40bd463f778a637/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/samba/.android/build-cache/c69a29ab71b74d9cc0bb1b84ffefea9b420c331a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/samba/.android/build-cache/3fa1dbf391ffb75755c52e1b5b4a8c36091d3055/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/samba/.android/build-cache/2ca5ee98a0153281d6c48936cdd649e107eb4315/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/samba/.android/build-cache/becffbad451990ab2b6b8dec4db2fe943fcbb52a/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/samba/.android/build-cache/7ae44f85e50cb082a4396744c2ef800d423e5f19/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/samba/.android/build-cache/46bf9646e8855f1b2ddc396fc0702dff6c874c13/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/samba/.android/build-cache/1bd9dd062fee308e2ed1b889bb1b5748fbefd1a8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/samba/.android/build-cache/d77ef8c4c802c750dc7a564279e9bae6ca62527f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/samba/.android/build-cache/47437475d72e4eb90303fd1146413eeae57396eb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/samba/.android/build-cache/80576b0dba550d0f8ddd6e094432ec56f6ff55de/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:13:9-40
+activity#br.edu.ifma.crea_ma.ListaNotificacoesActivity
+ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:14:9-16:50
+	android:label
+		ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:15:13-54
+activity#br.edu.ifma.crea_ma.FormularioNotificacoesActivity
+ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:17:9-19:55
+	android:label
+		ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:19:13-52
+	android:name
+		ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:18:13-59
+activity#br.edu.ifma.crea_ma.ListaProprietariosActivity
+ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:20:9-22:54
+	android:label
+		ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:22:13-51
+	android:name
+		ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:21:13-55
+activity#br.edu.ifma.crea_ma.FormularioProprietariosActivity
+ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:23:9-25:59
+	android:label
+		ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:24:13-60
+activity#br.edu.ifma.crea_ma.LoginActivity
+ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:26:9-34:20
+	android:theme
+		ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:28:13-72
+	android:name
+		ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:27:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/samba/.android/build-cache/4a618b7e361d93b3e6fde241229fcacf3b165c73/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/samba/.android/build-cache/9968abbba08cc354a91ff168f40bd463f778a637/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/samba/.android/build-cache/c69a29ab71b74d9cc0bb1b84ffefea9b420c331a/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/samba/.android/build-cache/3fa1dbf391ffb75755c52e1b5b4a8c36091d3055/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/samba/.android/build-cache/2ca5ee98a0153281d6c48936cdd649e107eb4315/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/samba/.android/build-cache/695939cc8ee15bf8cae1387c7d6ebec9f1048b04/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/samba/.android/build-cache/becffbad451990ab2b6b8dec4db2fe943fcbb52a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/samba/.android/build-cache/7ae44f85e50cb082a4396744c2ef800d423e5f19/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/samba/.android/build-cache/46bf9646e8855f1b2ddc396fc0702dff6c874c13/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/samba/.android/build-cache/1bd9dd062fee308e2ed1b889bb1b5748fbefd1a8/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/samba/.android/build-cache/d77ef8c4c802c750dc7a564279e9bae6ca62527f/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/samba/.android/build-cache/47437475d72e4eb90303fd1146413eeae57396eb/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/samba/.android/build-cache/80576b0dba550d0f8ddd6e094432ec56f6ff55de/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/samba/.android/build-cache/9968abbba08cc354a91ff168f40bd463f778a637/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml
+		INJECTED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml
+		INJECTED from /home/samba/AndroidStudioProjects/Crea-MA-final/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /home/samba/.android/build-cache/9968abbba08cc354a91ff168f40bd463f778a637/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/samba/.android/build-cache/c69a29ab71b74d9cc0bb1b84ffefea9b420c331a/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/samba/.android/build-cache/3fa1dbf391ffb75755c52e1b5b4a8c36091d3055/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/samba/.android/build-cache/2ca5ee98a0153281d6c48936cdd649e107eb4315/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/samba/.android/build-cache/695939cc8ee15bf8cae1387c7d6ebec9f1048b04/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/samba/.android/build-cache/becffbad451990ab2b6b8dec4db2fe943fcbb52a/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/samba/.android/build-cache/7ae44f85e50cb082a4396744c2ef800d423e5f19/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/samba/.android/build-cache/46bf9646e8855f1b2ddc396fc0702dff6c874c13/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/samba/.android/build-cache/1bd9dd062fee308e2ed1b889bb1b5748fbefd1a8/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/samba/.android/build-cache/d77ef8c4c802c750dc7a564279e9bae6ca62527f/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/samba/.android/build-cache/47437475d72e4eb90303fd1146413eeae57396eb/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/samba/.android/build-cache/80576b0dba550d0f8ddd6e094432ec56f6ff55de/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/samba/.android/build-cache/9968abbba08cc354a91ff168f40bd463f778a637/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/samba/.android/build-cache/9968abbba08cc354a91ff168f40bd463f778a637/output/AndroidManifest.xml:26:9-47

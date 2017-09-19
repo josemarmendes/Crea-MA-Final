@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/jamerson/Documentos/Crea-MA-final/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/jamerson/.android/build-cache/feba8b38f65ac000f15071b79c44d787a89eae0e/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/jamerson/Documentos/Crea-MA-final/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/jamerson/.android/build-cache/feba8b38f65ac000f15071b79c44d787a89eae0e/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/jamerson/Downloads/Crea-MA-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/jamerson/.android/build-cache/152b871e040dcf67a53ec7fd5f653ecf2070921c/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/samba/AndroidStudioProjects/Crea-MA-final/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/samba/.android/build-cache/9968abbba08cc354a91ff168f40bd463f778a637/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/samba/AndroidStudioProjects/Crea-MA-final/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/samba/.android/build-cache/9968abbba08cc354a91ff168f40bd463f778a637/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/jamerson/Downloads/Crea-MA-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/jamerson/.android/build-cache/152b871e040dcf67a53ec7fd5f653ecf2070921c/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    }
+]
